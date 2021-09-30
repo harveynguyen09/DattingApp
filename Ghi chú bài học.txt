@@ -1,0 +1,7 @@
+Section 2:
+- Chạy câu lệnh "dotnet new sln" để tạo file sln -> chạy "dotnet new webapi -o API" để tạo thư mục API -> truy cập vào thư mục API -> chạy "dotnet run" để chạy thư mục ->
+chạy "dotnet dev-certs https --trust" để thiết lập trusted khi truy cập trên trình duyệt -> chạy lại "dotnet run" để cho project chạy tự động
+- Dùng câu lệnh "dotnet watch run" để cho trình duyệt tự cập nhật code mới, kiểu giống live server.
+- Hướng dẫn cách tạo DatabaseContext
+- Hướng dẫn cách tạo SQLite
+- Viết API trong Controllers
